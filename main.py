@@ -139,10 +139,12 @@ async def daily_motivation(context: ContextTypes.DEFAULT_TYPE):
         await context.bot.send_message(chat_id=chat_id, text=quote)
     except NetworkError as e:
         print(f"NetworkError in daily_motivation: {e}")
-
+import os
 # ---------- Main ----------
 def main():
-    TOKEN = "8405841092:AAGNKZTCDrtEgw8vfJst-FjwQfZPTqoFDWg"  # <-- Replace with your actual bot token!
+    TOKEN = os.environ.get("BOT_TOKEN")
+if not TOKEN:
+    raise ValueError("No BOT_TOKEN found in environment variables")  
 
     app = ApplicationBuilder().token(TOKEN).build()
 
