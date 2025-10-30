@@ -1,0 +1,87 @@
+{
+  "Operating Systems": {
+    "topics": [
+      "Introduction & Virtualization",
+      "CPU Virtualization (Process, PCB, Scheduling)",
+      "Memory Virtualization (Paging, Segmentation, Swapping)",
+      "Concurrency (Threads, Locks, Semaphores, Conditions)",
+      "Persistence (I/O Devices, File Systems, RAID)",
+      "Security Basics"
+    ],
+    "completed": 35
+  },
+  "Compiler Design": {
+    "topics": [
+      "Introduction & Compiler Phases",
+      "Lexical Analysis",
+      "Syntax Analysis",
+      "Syntax Directed Translation",
+      "Type Checking",
+      "Intermediate Code Generation",
+      "Optimizations",
+      "Code Generation"
+    ],
+    "completed": 30
+  },
+  "Database Management Systems": {
+    "topics": [
+      "Introduction to DBMS & Data Models",
+      "Relational Algebra",
+      "Entity Relationship & EER Models",
+      "Schema Design & Normalization",
+      "SQL Programming",
+      "Transactions & Recovery",
+      "PHP / Application Integration"
+    ],
+    "completed": 40
+  },
+  "Artificial Intelligence": {
+    "topics": [
+      "Introduction & Motivation",
+      "Problem Solving by Search (State Space, Graph Search)",
+      "Game Playing & Constraint Satisfaction",
+      "Automated Reasoning (Logic, Inference, Deduction)",
+      "Planning (State-space, Partial Order Planning)",
+      "Reasoning under Uncertainty (Bayesian, Fuzzy)",
+      "Reinforcement Learning (MDP, Q-Learning)"
+    ],
+    "completed": 25
+  },
+  "Web Development": {
+    "topics": [
+      "HTML, CSS, JS Basics",
+      "DOM Manipulation",
+      "Frontend Framework (React)",
+      "Backend (Node.js / Express)",
+      "Databases (MongoDB, SQL)",
+      "Authentication & Deployment"
+    ],
+    "completed": 20
+  },
+  "DevOps": {
+    "topics": [
+      "Linux & Shell Basics",
+      "Git & GitHub",
+      "CI/CD Concepts",
+      "Docker & Containers",
+      "Kubernetes Basics",
+      "Cloud (AWS/GCP/Azure)",
+      "Monitoring & Automation"
+    ],
+    "completed": 10
+  },
+  "Data Structures and Algorithms": {
+    "topics": [
+      "Arrays & Strings",
+      "Linked Lists",
+      "Stacks & Queues",
+      "Trees & Binary Search Trees",
+      "Heaps & Priority Queues",
+      "Graphs",
+      "Sorting & Searching",
+      "Dynamic Programming"
+    ],
+    "completed": 15
+  }
+}
+

@@ -1,0 +1,9 @@
+{
+  "AI": ["Revise last AI notes", "Watch an AI YouTube lecture", "Solve 2 AI MCQs"],
+  "OS": ["Practice 2 OS previous year questions", "Revise deadlock and semaphore concepts"],
+  "CD": ["Revisit syntax analysis", "Read about Three Address Code generation"],
+  "DBMS": ["Revise normalization", "Practice SQL queries"],
+  "Microeconomics": ["Watch a short video on demand-supply", "Revise class notes"],
+  "Psychology": ["Read 2 pages from your notes", "Do 5 mins journaling"]
+}
+

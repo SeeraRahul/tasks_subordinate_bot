@@ -1,0 +1,25 @@
+{
+  "Monday": [
+    {"subject": "AI", "time": "09:30"},
+    {"subject": "DBMS", "time": "14:00"}
+  ],
+  "Tuesday": [
+    {"subject": "OS", "time": "09:30"},
+    {"subject": "CD", "time": "14:00"}
+  ],
+  "Wednesday": [
+    {"subject": "Microeconomics", "time": "10:00"},
+    {"subject": "Psychology", "time": "15:00"}
+  ],
+  "Thursday": [
+    {"subject": "AI", "time": "09:30"},
+    {"subject": "DBMS", "time": "14:00"}
+  ],
+  "Friday": [
+    {"subject": "OS", "time": "09:30"},
+    {"subject": "CD", "time": "14:00"}
+  ],
+  "Saturday": [],
+  "Sunday": []
+}
+
